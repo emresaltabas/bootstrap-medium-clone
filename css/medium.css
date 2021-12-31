@@ -1,0 +1,20 @@
+body{
+    font-family: 'PT Serif', serif;
+    
+}
+
+.bg-color{
+    background-color: #FFC017;
+}
+.border-bottom{
+    border-bottom: solid 1px rgba(41, 41, 41, 1);
+}
+
+ul{
+    font-size: small;
+}
+
+.aside-button>li{
+    margin: 5px;
+
+}
